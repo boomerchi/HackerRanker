@@ -1,0 +1,6 @@
+{
+  "urls": {
+    "contestParticipation": "https://www.hackerrank.com/rest/hackers/${participant}/contest_participation?offset=${offset}&limit=${limit}"
+  },
+  "contestName": "Week of Code 22"
+}

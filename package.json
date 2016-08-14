@@ -10,5 +10,10 @@
     "hackerrank"
   ],
   "author": "@lennymarkus",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "lodash.template": "^4.4.0",
+    "request": "^2.74.0"
+  }
 }
